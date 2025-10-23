@@ -433,5 +433,6 @@ export default function App() {
   );
 } "this is a test for jira from github COL-1"
   deploy this code from github to docker.
+ "code deployed to docker sucessfully"
 
 /* End of single-file app */
